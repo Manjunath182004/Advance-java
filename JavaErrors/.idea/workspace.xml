@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31ace976-2fa2-4c40-9cc6-77942186a83c" name="Changes" comment="&quot;Exception handling&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/Abstraction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/src/com/tutorusdude/abstraction/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/src/com/tutorusdude/abstraction/channels/Cartoon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/src/com/tutorusdude/abstraction/channels/DisneyHotstar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abstraction/src/com/tutorusdude/abstraction/channels/Pogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/AccessSpecifiers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/defaultex/CricketPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/defaultex/DefaultRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/privateex/CoachEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/protectedex/ProtectedRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/protectedex/VolleyballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/publicex/PlayerEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccessSpecifiers/src/com/tutorusdude/accessspecifiers/publicex/PublicRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/AssociationInEncapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/encapsulation/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/encapsulation/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/encapsulation/Flipkart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/encapsulation/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationInEncapsulation/src/com/tutorusdude/associationinencapsulation/encapsulation/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/AssociationTask2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/AssociationRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Display.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Keyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Ram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociationTask2/src/com/tutorusdude/associationtask2/computerex/Speaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/Collection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/RunnerArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/RunnerLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/maps/RegistrationNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/set/RunnerHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/set/RunnerLinkedHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/set/RunnerTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/wrapperclass/WrapperArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/wrapperclass/WrapperHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/wrapperclass/WrapperLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/wrapperclass/WrapperLinkedhashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collection/src/com/tutorusdude/collection/wrapperclass/WrapperTreeSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudInCollections/CrudInCollections.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudInCollections/src/com/tutorusdude/crudincollections/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudInCollections/src/com/tutorusdude/crudincollections/crud/Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/CrudOperations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/src/com/tutorusdude/crudoperations/CreateRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/src/com/tutorusdude/crudoperations/RUDoperations/CompanyNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/src/com/tutorusdude/crudoperations/RUDoperations/Laptops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/src/com/tutorusdude/crudoperations/RUDoperations/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudOperations/src/com/tutorusdude/crudoperations/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudPractice/CrudPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudPractice/src/com/tutroysdude/crudpractice/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CrudPractice/src/com/tutroysdude/crudpractice/Values.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTransferObjects/DataTransferObjects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTransferObjects/src/com/tutorusdude/datatransferobjects/DtoExamples/LaptopDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTransferObjects/src/com/tutorusdude/datatransferobjects/DtoExamples/LaptopStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTransferObjects/src/com/tutorusdude/datatransferobjects/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/ElectronicDevices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/ElectronicsDevices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/EdsRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/AndroidPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/AndroidTablet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/ElectronicDevices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/GamingLaptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/Ipad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/Iphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/NormalLaptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/SmartPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElectronicDevices/src/com/tutorsdude/electronicdevices/devices/Tablet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/com/tutorusdude/encapsulation/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/src/com/tutorusdude/encapsulation/example/College.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/Enums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/EnumRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/BatteryStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Connection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Days.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Directions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/EnergySources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/FilesType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/GovernmentIdentity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/JobType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/MarriedStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/OperatingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/RainbowColours.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Score.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/ShiftType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/ThemeMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enums/src/com/tutorusdude/com/enumex/Weather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/Hospital.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/HospitalRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Disease.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Hospital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hospital/src/com/tutorsdude/hospital/gangavathi/PatientAddress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Ferrari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/HirachialRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Honda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Ktm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Lamborghini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hirachial/Vechicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hybrid/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hybrid/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hybrid/ElectronicDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hybrid/HybridRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/hybrid/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multilevel/Mahindra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multilevel/MultilevelRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multilevel/Tractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multilevel/Vechicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multiple/Designer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multiple/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multiple/MultipleRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/multiple/Programmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/single/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/single/Mango.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/src/com/tutorsdude/inheritance/single/TestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/InteritanceTask1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/multilevel/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/multilevel/MultilevelRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/multilevel/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/multilevel/Redmi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/single/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/single/Laptop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InteritanceTask1/src/com/tutrousdude/inheritancetask1/single/SingleRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/JavaErrors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/MobileRechargeRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/PhoneRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/exceptions/Examples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/exceptions/Recharge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/exceptions/ThrowExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/exceptions/otpGenerate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/mobile/MobileRecharge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/mobile/RechargeFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/phone/MobileRechargeII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/phone/PhoneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaErrors/src/com/tutorusdude/javaerrors/phone/RechargeFieldsII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/com/tutorusdude/methodoverloading/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/com/tutorusdude/methodoverloading/types/NoOfParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/com/tutorusdude/methodoverloading/types/OrderOfParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverloading/src/com/tutorusdude/methodoverloading/types/TypeOfParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/MethodOverriding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/College.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/Java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/NonVeg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodOverriding/src/com/tutorusdude/methodoverriding/examples/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Static.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/examples/Bluetooth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/examples/College.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/examples/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/examples/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/src/com/tutorusdude/staticc/examples/Pogo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Manjunath182004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Manjunath182004/Advance-java.git&quot;,
+    &quot;accountId&quot;: &quot;7ae56ac7-4140-4753-a02d-5e756e68be90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zS1lTS1KKg5xSk8ZifmIHjsCAw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CompileTimeException.executor": "Run",
+    "Application.Examples.executor": "Run",
+    "Application.PhoneRunner.executor": "Run",
+    "Application.Recharge.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.ThrowExample.executor": "Run",
+    "Application.Try.executor": "Run",
+    "Application.otpGenerate.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ace976-2fa2-4c40-9cc6-77942186a83c" name="Changes" comment="" />
+      <created>1751709814255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751709814255</updated>
+    </task>
+    <servers />
+  </component>
+</project>
