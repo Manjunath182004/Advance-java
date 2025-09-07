@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f342e9f8-a49f-47c7-a275-42a7dff387c2" name="Changes" comment="&quot;Access Specifiers in Java  &quot;">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccessSpecifiers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/defaultex/CricketPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/defaultex/CricketPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/defaultex/DefaultRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/defaultex/DefaultRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/privateex/CoachEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/privateex/CoachEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/protectedex/ProtectedRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/protectedex/ProtectedRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/protectedex/VollyballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/protectedex/VolleyballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/publicex/PlayerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/publicex/PlayerEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/publicex/PublicRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorusdude/accessspecifiers/publicex/PublicRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Manjunath182004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Manjunath182004/AccessSpecifiers.git&quot;,
+    &quot;accountId&quot;: &quot;7ae56ac7-4140-4753-a02d-5e756e68be90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2u5R7FDMUDSj0urA3RmU8VZRETq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CoachEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CricketPlayer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlayerEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolleyballPlayer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f342e9f8-a49f-47c7-a275-42a7dff387c2" name="Changes" comment="" />
+      <created>1741536281157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741536281157</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Access Specifiers in Java  &quot;">
+      <option name="closed" value="true" />
+      <created>1741536355837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741536355837</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Access Specifiers in Java  &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Access Specifiers in Java  &quot;" />
+  </component>
+</project>
